@@ -1,0 +1,54 @@
+#image{
+    border-radius: 500px;
+    float: right;
+    border: #070119 2px solid;
+    
+}
+
+#About{
+
+    background-color: #DDDDDD;
+    width: 400px;
+    height: 150px;
+    padding: 30px;
+    border: 10px solid #4e21d4;
+    margin: 10px;
+}
+
+#skills{
+
+    background-color: #DDDDDD;
+    width: 400px;
+    height: 150px;
+    padding: 30px;
+    border: 10px solid #0d5b04;
+    margin: 10px;
+}
+
+#exp{background-color: #DDDDDD;
+    width: 400px;
+    height: 180px;
+    padding: 30px;
+    border: 10px solid #470547;
+    margin: 10px;}
+
+#projects{background-color: #DDDDDD;
+    width: 400px;
+    height: 350px;
+    padding: 30px;
+    border: 10px solid #e71717;
+    margin: 10px;}
+
+#education{background-color: #DDDDDD;
+    width: 400px;
+    height: 200px;
+    padding: 30px;
+    border: 10px solid #470547;
+    margin: 10px;}
+
+#hoppies{background-color: #DDDDDD;
+    width: 400px;
+    height: 130px;
+    padding: 30px;
+    border: 10px solid #470547;
+    margin: 10px;}
